@@ -1,10 +1,6 @@
 # gonefishing
 where are the repos?
-
-https://gitlab.com/users/mrose/projects
-
-all repos have been moved to gitlab in protest of Copilot
-
+all repos have been moved. Contact me if you're interested.
 Using AI to scrape code for profit may be legal but clearly not in the spirit of open source.
-
+At a minimum we should expect attribution. BTW you're LLMs aren't that good anyways.
 It's not me, it's you.
